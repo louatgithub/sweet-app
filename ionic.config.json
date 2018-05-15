@@ -1,0 +1,8 @@
+{
+  "name": "sweetapp",
+  "app_id": "851f2af4",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
